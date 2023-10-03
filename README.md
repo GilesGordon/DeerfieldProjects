@@ -1,2 +1,2 @@
-# Data Structures and Algorithms Deerfield Academy
-Deerfield Academy CS projects
+# DeerfieldProjects
+Data Structures and Algorithms projects Deerfield Academy
